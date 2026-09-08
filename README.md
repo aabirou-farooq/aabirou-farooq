@@ -93,21 +93,7 @@ Building applications using modern frontend and backend technologies.
 
 ---
 
-## 🧠 My Development Philosophy
 
-> **Learn → Build → Break → Debug → Improve**
-
-I believe the best way to learn technology is to actually build with it.
-
-I aim to write code that is:
-
-* ✅ Clean
-* ✅ Maintainable
-* ✅ Understandable
-* ✅ Practical
-* ✅ Scalable
-
----
 
 ## 🌐 Connect With Me
 
